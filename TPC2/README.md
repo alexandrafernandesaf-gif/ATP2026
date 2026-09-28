@@ -2,7 +2,7 @@
 # # Autor:
 Alexandra Fernandes;
 114947
-Foto:https://mail.google.com/mail/u/0?ui=2&ik=1b629db47d&attid=0.1&permmsgid=msg-a:r-39465701747535810&th=1a0c3fa637727b15&view=fimg&fur=ip&permmsgid=msg-a:r-39465701747535810&sz=s0-l75-ft&attbid=ANGjdJ_WTklV5L_OYpII2oSswqq-bTyrC4q0LLAlLfQ3cZ8wpF48HrC7DIEk-ODijGC2EiWUczXN7Z46Ym7hKKGKPDO23zhkbWvPke9CjdrGTAXX9dFX0x5SES3hadM&disp=emb&realattid=DA90D048-C0E3-48D0-9A52-6C5BCDFB9C1B&zw<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/d5aa0b92-2330-48d9-8b50-53b1d2eece98" />
+Foto:<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/d5aa0b92-2330-48d9-8b50-53b1d2eece98" />
 
 
 
