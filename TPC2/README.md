@@ -1,8 +1,9 @@
 #TPC2: jogo adivinha o número
-# # Autorr:
+# # Autor:
 Alexandra Fernandes;
 114947
-Foto:img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/82c06437-63d3-499e-9f67-0cce45dd46b1" />
+Foto:https://mail.google.com/mail/u/0?ui=2&ik=1b629db47d&attid=0.1&permmsgid=msg-a:r-39465701747535810&th=1a0c3fa637727b15&view=fimg&fur=ip&permmsgid=msg-a:r-39465701747535810&sz=s0-l75-ft&attbid=ANGjdJ_WTklV5L_OYpII2oSswqq-bTyrC4q0LLAlLfQ3cZ8wpF48HrC7DIEk-ODijGC2EiWUczXN7Z46Ym7hKKGKPDO23zhkbWvPke9CjdrGTAXX9dFX0x5SES3hadM&disp=emb&realattid=DA90D048-C0E3-48D0-9A52-6C5BCDFB9C1B&zw<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/d5aa0b92-2330-48d9-8b50-53b1d2eece98" />
+
 
 
 ## Resumo: O trabalho de casa dado na segunda aula da teórica e prática tem como intuito criar um programa em python para o jogo "adivinha o número", em que esse mesmo jogo poderia ter duas modalidades: o computador pensa num número (entre 0 e 100)e o utilizador tenta adivinhar ou o utilizador pensa num número (entre 0 e 100) e o computador tenta adivinhar;    Quem tenta adivinhar responde com uma das afirmações: "Acertou", "O número que pensei é Maior" ou "O número que pensei é Menor". Uma vez descoberto o número o programa deve terminar imprimindo o número de tentativas que quem adivinhou usou para chegar ao resultado.
