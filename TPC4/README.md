@@ -8,7 +8,7 @@ Foto:<img width="3024" height="4032" alt="image" src="https://github.com/user-at
 
 ## resultados (programa em python):
 # Código: 
-https://github.com/alexandrafernandesaf-gif/ATP2026/tree/main/TPC4#:~:text=README.md-,TPC4,-.py
+https://github.com/alexandrafernandesaf-gif/ATP2026/blob/main/TPC4/TPC4.py#:~:text=README.md-,TPC4,-.py
 #tpc4 
 import random
 def menu():
