@@ -11,4 +11,4 @@ Foto:<img width="3024" height="4032" alt="image" src="https://github.com/user-at
 ## resultados (programa em python):
 
 # Código: 
-tpc6.py
+tpc6
