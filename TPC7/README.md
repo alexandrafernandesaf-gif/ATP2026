@@ -8,4 +8,4 @@ Foto:<img width="3024" height="4032" alt="image" src="https://github.com/user-at
 
 ## Resumo: O TPC 7 tem como objetivo a resolução de diversos algoritmos, no sentido de o aluno perceber se está a acompanhar corretamente as aulas e o conteúdo da UC.
 
-## Código:
+## Código: https://github.com/alexandrafernandesaf-gif/ATP2026/blob/main/TPC7/TPC7.ipynb#:~:text=TPC7.-,ipynb,-README.md
